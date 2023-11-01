@@ -12,10 +12,10 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/atejap05/redux-toolkit-sample.git
 
 # Navigate to the directory
-cd your-repo-name
+cd redux-toolkit-sample
 
 # Install dependencies
 npm install
@@ -38,4 +38,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 
-LinkedIn - [@atejap05] - atejap05l@yohoo.com.br
+Joel Alves - [https://www.linkedin.com/in/atejap05/] - atejap05@yohoo.com.br
