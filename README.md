@@ -38,4 +38,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 
-Joel Alves - [https://www.linkedin.com/in/atejap05/] - atejap05@yohoo.com.br
+[LinkedIn] (https://www.linkedin.com/in/atejap05/)
