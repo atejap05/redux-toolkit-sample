@@ -38,4 +38,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 
-[LinkedIn] (https://www.linkedin.com/in/atejap05/)
+[LinkedIn](https://www.linkedin.com/in/atejap05/)
